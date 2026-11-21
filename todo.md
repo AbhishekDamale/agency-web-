@@ -1,0 +1,190 @@
+# e_commerce.hub Upgrade Checklist
+
+- [x] Inspect the existing landing page structure and identify safe frontend-only extension points.
+- [x] Define an honest founder-only access pattern without pretending to provide secure authentication in a static frontend.
+- [x] Add a founder project manager with add, edit, delete, publish/unpublish, and local persistence controls.
+- [x] Add public portfolio browsing with richer project cards and a project detail dialog.
+- [x] Refresh typography, color balance, spacing, and surface treatments for a more professional finish.
+- [x] Add tasteful scroll, hover, modal, and form animations with reduced-motion support.
+- [x] Run type checking, production build, and responsive visual verification.
+- [x] Save a checkpoint and deliver the upgraded version with setup notes.
+
+## Founder portrait update
+
+- [x] Copy and upload the provided Yash Mete portrait as a persistent web asset.
+- [x] Add the portrait to Yash’s founder card with a responsive crop and editorial treatment.
+- [x] Run a responsive visual check and save an updated checkpoint.
+
+## Second founder portrait
+
+- [x] Copy and upload the provided Abhishek Damale portrait as a persistent web asset.
+- [x] Add both founder portraits to the responsive founders cards with consistent editorial framing.
+- [x] Re-run the visual check and create a combined founders-photo checkpoint.
+
+## Social handles
+
+- [x] Add the provided Instagram profile as an active social link.
+- [x] Add Facebook and LinkedIn logo controls with clear coming-soon states.
+- [x] Verify the footer links and save an updated checkpoint.
+
+## Reference-inspired redesign
+
+- [x] Translate the MusiTech reference into original e_commerce.hub design decisions.
+- [x] Restructure the homepage for clearer service discovery, capability proof, and conversion.
+- [x] Implement and verify the new desktop and mobile experience without copying protected branding or content.
+
+## Agency logo and header strip
+
+- [x] Copy and upload the provided agency logo as a persistent web asset.
+- [x] Replace the compact symbol lockup with the provided logo in the header and footer.
+- [x] Add a white navigation strip with readable agency name and primary links.
+- [x] Verify desktop/mobile header contrast and save an updated checkpoint.
+
+## Verified client projects
+
+- [x] Review Pachorekar Jewellers, Angad International, and Sahyadri Global Traders public project details.
+- [x] Add the three projects first in the public portfolio with accurate descriptions and live website links.
+- [x] Verify the project cards on desktop and mobile and save an updated checkpoint.
+
+## Founder profile windows
+
+- [x] Add professional founder profile data for Yash Mete and Abhishek Damale.
+- [x] Make both founder cards clickable and open detailed profile windows.
+- [x] Add mailto and telephone contact actions with responsive layout.
+- [x] Verify the profile windows on desktop/mobile and save a checkpoint.
+
+## Premium corporate redesign
+
+- [x] Refine the hero hierarchy, CTA messaging, and background motion.
+- [x] Upgrade sticky navigation, typography, spacing, buttons, and section proportions.
+- [x] Polish service, project, and founder cards with consistent hover states.
+- [x] Verify restrained scroll animations and responsive behavior on desktop/mobile.
+- [x] Save a new checkpoint after the build and visual review.
+
+## Trust, contact, and performance expansion
+
+- [x] Add honest trust signals without inventing statistics, ratings, certifications, awards, or testimonials.
+- [x] Strengthen the About section with an editorial company story and supporting visual treatment.
+- [x] Add a professional enquiry form with success feedback and visible email, call, WhatsApp, and location options where details are available.
+- [x] Redesign the footer with quick links, services, contact details, social links, and CTA.
+- [x] Add back-to-top behavior, scroll progress, subtle motion, and reduced-motion safeguards.
+- [x] Validate responsive layout, form states, and production build, then save a checkpoint.
+
+## Final professionalism pass
+
+- [x] Add tasteful premium visual effects without drifting into a gaming aesthetic.
+- [x] Improve page title, description, Open Graph metadata, image alt text, and semantic business markup.
+- [x] Strengthen conversion paths with clear, non-spammy contact, call, WhatsApp, and enquiry CTAs.
+- [x] Validate reduced-motion behavior, performance-minded animation, responsiveness, SEO markup, and production build.
+- [x] Save a new checkpoint after the final visual and professionalism review.
+
+## Attached animation-system upgrade
+
+- [x] Add the cinematic hero, smart navbar, reusable reveal, and premium CTA motion behaviors.
+- [x] Add abstract global-reach animation and interactive business journey timeline without invented destinations.
+- [x] Add once-only verified count-up behavior and enquiry loading/success states.
+- [x] Validate desktop/mobile responsiveness, reduced motion, and production build before checkpoint.
+
+## Full attached website upgrade
+
+- [x] Translate the attached requirements into the existing e_commerce.hub brand and content model.
+- [x] Upgrade core structure, typography, responsive layout, navigation, contact, FAQ, and honest project/service presentation.
+- [x] Implement reusable motion, journey, trust, card, form, and premium interaction systems.
+- [x] Add SEO, accessibility, performance, mobile, and no-fabrication safeguards.
+- [x] Validate the complete experience across requested responsive sizes and save a checkpoint.
+
+## Third team member
+
+- [x] Stage and upload Himanshu Kharwade’s portrait.
+- [x] Add his team card, role information, and clickable profile window.
+- [x] Validate the team layout on desktop and mobile, then save a checkpoint.
+
+## Team social details
+
+- [x] Add Himanshu’s phone number and Instagram URL.
+- [x] Add Instagram URLs for Abhishek and Yash and expose them in profile actions.
+- [x] Validate links and save a checkpoint.
+
+## Early navigation and packages
+
+- [x] Add Past Work, Services, and Packages buttons near the top of the homepage.
+- [x] Make the Services destination show the complete client service list.
+- [x] Add Basic, High Level, Advance, and Premium package tiers with clear inclusions.
+- [x] Show Price declared soon for every tier until final prices are provided.
+- [x] Validate anchor navigation and responsive layout, then save a checkpoint.
+
+## Dedicated detail pages
+
+- [x] Create dedicated Past Work, Services, and Packages routes.
+- [x] Move the three hero buttons from in-page scrolling to page navigation.
+- [x] Add full detail content and return-to-home navigation for each page.
+- [x] Validate all routes on desktop/mobile and save a checkpoint.
+
+## Two-screen homepage flow
+
+- [x] Keep the first home screen focused on the hero and core agency message.
+- [x] Add a second static Explore screen with heading-style buttons for Past Work, Services, and Packages.
+- [x] Ensure each Explore button opens its dedicated page rather than an in-page slide.
+- [x] Verify the two-screen flow on desktop/mobile and save a checkpoint.
+
+## Corrected two-screen landing
+
+- [x] Make the main homepage contain only Hero screen 1 and Explore screen 2.
+- [x] Remove the long scrolling sections from the first-visit homepage route without deleting the existing detail pages.
+- [x] Keep Past Work, Services, and Packages as separate pages opened by buttons.
+- [x] Validate the compact landing page and separate routes on desktop/mobile, then save a checkpoint.
+
+## Restored Explore navigation
+
+- [x] Confirm existing About, Team, Contact, and Founder Console targets.
+- [x] Add visible buttons for those destinations to the Explore screen.
+- [x] Validate the button layout and navigation targets on desktop/mobile, then save a checkpoint.
+
+## Complete Explore studio directory
+
+- [x] Audit all existing public section and navigation targets.
+- [x] Add every relevant destination to the Explore screen alongside Past Work, Services, and Packages.
+- [x] Organize the directory for clear discovery on desktop and mobile.
+- [x] Validate all Explore links and save a checkpoint.
+
+## Dedicated Team page
+
+- [x] Create a Team page route with all three team members and their provided details.
+- [x] Add profile contact/social actions and clear Past Work, Services, and Packages buttons.
+- [x] Validate the Team page on desktop/mobile and save a checkpoint.
+
+## Navigation repair
+
+- [x] Make the Team destination clearly visible in the Explore Screen 2 primary section.
+- [x] Repair the Explore Screen 2 and Start a conversation buttons so they navigate correctly.
+- [x] Verify the repaired links on desktop and mobile, then save a checkpoint.
+
+## White header navigation restoration
+
+- [x] Inspect the compact homepage white header and identify the missing navigation controls.
+- [x] Restore visible header buttons with working destinations and responsive mobile behavior.
+- [x] Verify the header on desktop/mobile, then save a checkpoint.
+
+## Hero Section redesign
+
+- [x] Replace only the compact homepage Hero Section copy with the requested headline, subheadline, CTAs, and trust line.
+- [x] Apply premium responsive hierarchy, spacing, visual balance, and restrained entrance animation without changing other sections.
+- [x] Verify desktop, tablet, and mobile Hero layouts, then save a checkpoint.
+
+## Hero ambient animation
+
+- [x] Add a lightweight animated visual background behind the Hero content without changing other sections.
+- [x] Add slow floating shapes, translucent UI cards, glow, particles, flowing lines, and pointer parallax with reduced-motion/mobile safeguards.
+- [x] Verify Hero readability and performance across desktop, tablet, and mobile, then save a checkpoint.
+
+## Hero refinement pass
+
+- [x] Confirm the Hero uses the requested exact headline, subheadline, CTA labels, and trust statement.
+- [x] Refine only the Hero typography, spacing, CTA prominence, responsiveness, and subtle entrance sequencing.
+- [x] Verify the isolated Hero across desktop, tablet, and mobile, then save a checkpoint.
+
+## Hero right-side visual enhancement
+
+- [x] Inspect and preserve the current Hero right-side image/layout while identifying the safe animation layer.
+- [x] Add a premium digital-ecosystem animation with UI cards, product cues, shapes, glow, lines, particles, depth, parallax, and accessibility/mobile safeguards.
+- [x] Verify the enhanced visual on desktop and mobile, then save a checkpoint.
